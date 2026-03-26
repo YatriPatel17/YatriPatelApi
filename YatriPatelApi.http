@@ -1,0 +1,6 @@
+@YatriPatelApi_HostAddress = http://localhost:5042
+
+GET {{YatriPatelApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

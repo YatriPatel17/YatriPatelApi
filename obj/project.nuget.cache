@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Be90/w6IKQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yatri\\Desktop\\yatri-api\\YatriPatelApi\\YatriPatelApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yatri\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.13\\microsoft.aspnetcore.openapi.9.0.13.nupkg.sha512",
+    "C:\\Users\\yatri\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
