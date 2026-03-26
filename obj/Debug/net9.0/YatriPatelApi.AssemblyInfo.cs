@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YatriPatelApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3944becc98e3fb217f157f5766b59458870e38f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+212507ccf95b1157406d22fc14e279c41e264a22")]
 [assembly: System.Reflection.AssemblyProductAttribute("YatriPatelApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YatriPatelApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
